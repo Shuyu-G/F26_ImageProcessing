@@ -5,7 +5,7 @@ In this repository, we can create, change, and collaborate on our learning journ
 Feel free to edit everything. 
 
 * Add useful links
-* Create folders for code, documentation, ...
+* Create folders for code, documentation, and the preparation of exam questions
 * Share insights!
 
 Our whiteboards will live in the classes Teams channel, though, unless we commit to a better way (e.g. check out the issues page of this repository, or consider turning the class into a Github Project).
