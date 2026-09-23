@@ -1,11 +1,13 @@
 # Exam Question Proposals
 
-## General hints:
-* Only questions, no answers! Keep answers elsewhere
-* No yes-no questions!
-* Per week, three questions on three levels (reproduce, apply, analyze)
+## Week 2 — Feature Matching
 
-## Example questions for one week:
-* Reproduce: State the Nyquist sampling theorem and describe its significance for image sampling.
-* Apply: Given an image containing details up to a specified spatial frequency, determine the minimum sampling frequency needed to avoid aliasing.
-* Analyze: Explain how undersampling causes aliasing and compare the resulting image artifacts with those produced by sampling at or above the Nyquist rate.
+* Reproduce: What is image feature matching?
+* Apply: Three candidate features have descriptor distances of 10, 25, and 40 from a query feature. Which candidate is the nearest-neighbor match?
+* Analyze: Why can repeated windows on a map cause incorrect feature matches?
+
+## Week 3 — Removing Wrong Matches
+
+* Reproduce: What is an incorrect feature match?
+* Apply: A filtering rule keeps only matches with a descriptor distance below 20. Which matches are retained if their distances are 12, 18, and 27?
+* Analyze: Why can image blur increase the likelihood of incorrect feature matches?
