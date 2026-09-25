@@ -1,10 +1,10 @@
 # Exam Question Proposals
 
-## Week 2 — Feature Matching
+## Week 2 — 
 
-* Reproduce: What is image feature matching?
-* Apply: Three candidate features have descriptor distances of 10, 25, and 40 from a query feature. Which candidate is the nearest-neighbor match?
-* Analyze: Why can repeated windows on a map cause incorrect feature matches?
+* Reproduce: 
+* Apply: 
+* Analyze: 
 
 ## Week 3 — Removing Wrong Matches
 
